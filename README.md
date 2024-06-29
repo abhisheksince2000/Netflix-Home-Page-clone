@@ -1,4 +1,4 @@
 # Netflix-Home-Page-clone
 
-## live preview
+## live view
  https://abhisheksince2000.github.io/Netflix-Home-Page-clone/
